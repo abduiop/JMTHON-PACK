@@ -1,93 +1,19 @@
-{
-  "name": "بوت العربي",
-  "description": "بـوت العربي الاول في الشرق الأوسط السورس مجاني لا يخدعك احد في تنصيب - قناة سورس@a_bdui62",
-  "logo": "https://telegra.ph/file/1159d03040bbe72dcfb0a.jpg",
-  "keywords": [
-    "plugin",
-    "modular",
-    "productivity"
-  ],
-  "repository": "https://github.com/a_bdui62-AR/a_bdui62-PACK",
-  "website": "#TODO",
-  "success_url": "#TODO",
-  "env": {
-    "ALIVE_NAME": {
-      "description": "هـنا ضع اسم حسابك الخاص بالتلي",
-      "value": ""
-    },
-    "APP_ID": {
-      "description": "هـنا ضع ايبي ايدي احصل عليه من  :  my.telegram.org",
-      "value": ""
-    },
-    "API_HASH": {
-      "description": "هـنا ضع ايبي هاش احصل عليه من my.telegram.org",
-      "value": ""
-    },
-    "STRING_SESSION": {
-      "description": "هـنا ضع كـود تيرمكس ",
-      "value": ""
-    },
-    "TG_BOT_USERNAME": {
-      "description": " @ هنـا ضع معرف بوت التلي الخاص بك بدون ",
-      "value": ""
-    },
-    "TG_BOT_TOKEN": {
-      "description": "هنـا ضع توكن بوتك .",
-      "value": ""
-    },
-    "COMMAND_HAND_LER": {
-      "description": "لا تغيـرها ابدا",
-      "value": ".",
-      "required": false
-    },
-    "ENV": {
-      "description": "لا تغيـرها ابدا.",
-      "value": "ANYTHING",
-      "required": false
-    },
-    "HEROKU_API_KEY": {
-      "description": "ايبـي هيروكو احصل عليه من هذا الرابط مطلوبة ! https://dashboard.heroku.com/account",
-      "value": ""
-    },
-    "HEROKU_APP_NAME": {
-      "description": "اسم التطبيق اول اسم خليته ",
-      "value": ""
-    },
-    "DEFAULT_BIO": {
-      "description": "هنا خلي نبذتك حسابك الي تطلع وي البايو الوقتي ",
-      "value": "",
-      "required": false
-    },
-    "TZ": {
-      "description": "هنـا ضع المنطقه الزمنية الخاص بك  احصل عليه من  http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Baghdad",
-      "required": false
-    },
-    "UPSTREAM_REPO": {
-      "description": "لا تغيـرها ابدا",
-      "value": "Jmthon-iq",
-      "required": false
-    }
-  },
-  "addons": [{
-    "plan": "heroku-postgresql",
-    "options": {
-      "version": "12"
-    }
-  }],
-  "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-  },{
-    "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
-  },{
-    "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
-  },{
-    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
-  },{
-    "url": "https://github.com/heroku/heroku-buildpack-apt.git"
-  },{
-    "url": "https://github.com/chrismytton/heroku-buildpack-jq"
-  },{
-    "url": "heroku/python"
-  }]
-}
+<h1 align="center"><b>🇮🇶 سـورس العربي </b></h1>
+<h4 align="center">🧸♥ مـرحبا بـك في سـورس العرلي</h4>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJMTHON-AR%2FJM-THON&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/abduiop/JMTHON-PACK)
+[![Open Source](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/a_bdui62-AR/JM-THON/graphs/commit-activity) 
+![Repo Size](https://img.shields.io/github/repo-size/a_bdui62-AR/JM-THON?&style=flat-square&logo=github)
+
+
+### استخراج كود تيرمكس  ##
+[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@JMTHONAR/stringsession)
+- احصل على الايبي هاش والايبي ايدي من  [هـنا](https://my.telegram.org/)    
+
+### التنصيب عبر هيروكو ##
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/abduiop/JMTHON-PACK.git=https://github.com/abduiop/JMTHON-PACK)
+
+## الـقـناة ##
+   <a href="https://t.me/a_bdui62"><img src="https://img.shields.io/badge/Source%20Dev%3F-here-inactive?&style=plastic?&logo=telegram" width=220px></a></p>
+ - 
